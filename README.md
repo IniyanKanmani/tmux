@@ -1,2 +1,2 @@
-### .tmux.config
+# Tmux config
 
